@@ -20,4 +20,4 @@ Chatbot ini dikembangkan sebagai bagian dari tugas akhir dan diimplementasikan m
 - Python
 - Hugging Face BERT Base (https://huggingface.co/cahya/bert-base-indonesian-1.5G)
 - Model NLP IndoBERT
-- SQLite3
+- SQLite
